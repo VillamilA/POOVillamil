@@ -1,5 +1,5 @@
 package HERENCIAS;
-
+//creado para el git
 public class Principal {
     public static void main (String [] args){
         Vivienda v1 = new Vivienda(123, "Angel");

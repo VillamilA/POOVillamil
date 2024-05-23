@@ -1,5 +1,5 @@
 package HERENCIAS;
-
+//ejemplo actualizacion de dentro 23 mayo
 public class Vivienda {
     int numero;
     String propietario;
